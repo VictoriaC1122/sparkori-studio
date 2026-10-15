@@ -1,0 +1,93 @@
+{
+  "schemaVersion": 2,
+  "apps": {
+    "6756014104": {
+      "appId": "6756014104",
+      "appName": "複利計算器-財務自由實現工具",
+      "policyTextFile": "6756014104-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/compound-calculator-support-site/privacy.html",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "最後更新日期：2026 年 4 月 10 日"
+    },
+    "6755403297": {
+      "appId": "6755403297",
+      "appName": "輕鬆抽獎",
+      "policyTextFile": "6755403297-policy-body.txt",
+      "policySourceURL": "https://sites.google.com/view/luckydraw-privacy/%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6?authuser=0",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "最後更新日期：2025 年 11 月 18 日"
+    },
+    "6815299678": {
+      "appId": "6815299678",
+      "appName": "股神養成：台美股模擬交易",
+      "policyTextFile": "6815299678-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/badaogushen-support-site/#privacy",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "生效與最後更新：2026 年 10 月 11 日"
+    },
+    "6761441866": {
+      "appId": "6761441866",
+      "appName": "你今天維他命了嗎",
+      "policyTextFile": "6761441866-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/vitamin-today-privacy-site/",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "生效日期：2026 年 4 月 1 日"
+    },
+    "6761411130": {
+      "appId": "6761411130",
+      "appName": "幣圈神器-加密貨幣&區塊鏈學習字典",
+      "policyTextFile": "6761411130-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/crypto-guide-support-site/privacy.html",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "最後更新日期：2026 年 3 月 30 日"
+    },
+    "6811446129": {
+      "appId": "6811446129",
+      "appName": "完美養豬",
+      "policyTextFile": "6811446129-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/perfect-pig-legal-center/?lang=zh-Hant&doc=privacy",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "最後更新日期：2026 年 9 月 13 日"
+    },
+    "6818286088": {
+      "appId": "6818286088",
+      "appName": "自己來設計",
+      "policyTextFile": "6818286088-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/design-it-yourself-privacy-policy/#privacy",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "最後更新 2026 年 10 月 7 日"
+    },
+    "6761694656": {
+      "appId": "6761694656",
+      "appName": "公關日記",
+      "policyTextFile": "6761694656-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/taiwan-night-notes-privacy-policy/#privacy",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "更新日期：2026 年 9 月 12 日"
+    },
+    "6761377948": {
+      "appId": "6761377948",
+      "appName": "賴瑞的調酒研究室",
+      "policyTextFile": "6761377948-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/larrys-bar-game/#copyright",
+      "policyStatus": "website_only_privacy",
+      "policyUpdatedText": null
+    },
+    "6754973616": {
+      "appId": "6754973616",
+      "appName": "AI時間管理",
+      "policyTextFile": "6754973616-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/ai-time-manager-site/privacy.html",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "Last updated: April 5, 2026"
+    },
+    "6761692228": {
+      "appId": "6761692228",
+      "appName": "把夢遺留下來",
+      "policyTextFile": "6761692228-policy-body.txt",
+      "policySourceURL": "https://victoriac1122.github.io/dream-journal-support-site/privacy.html",
+      "policyStatus": "full_text_available",
+      "policyUpdatedText": "生效日期：2026 年 4 月 5 日；最後更新：2026 年 10 月 2 日"
+    }
+  }
+}
